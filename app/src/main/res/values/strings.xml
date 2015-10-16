@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SimonSlides</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">Start Game</string>
+    <string name="medium">Normal</string>
+    <string name="easy">Easy</string>
+    <string name="hard">Hard</string>
+    <string name="high_score">Hight Score</string>
+    <string name="green_tut">If the arrow is GREEN swipe in the SAME direction</string>
+    <string name="red_tut">If the arrow is RED swipe in the OPPOSITE direction</string>
+    <string name="grey_tut">If the arrow is GREY then DO NOTHING</string>
+</resources>
